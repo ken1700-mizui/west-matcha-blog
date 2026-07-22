@@ -2,6 +2,7 @@
 title: "How West Matcha Began: A Founder's Story"
 description: "The story behind West Matcha: why a Nagoya native living in Canada set out to bring authentic single-origin ceremonial matcha to Winnipeg."
 pubDate: 2026-07-22
+heroImage: '../../assets/matcha-bowl.jpg'
 ---
 
 Hi, I'm J, the founder of West Matcha. Before diving into recipes, sourcing, and everything else this blog will cover, I wanted to share a bit about why this brand exists in the first place.

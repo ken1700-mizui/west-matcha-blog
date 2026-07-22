@@ -21,17 +21,17 @@ At some point, I stopped waiting to find it and decided to bring it here myself.
 
 ## Why Origin Matters to Us
 
-West Matcha sources single-origin, ceremonial-grade matcha directly from regions in Japan with deep roots in matcha production, including Nishio in Aichi Prefecture.
+West Matcha is being built around single-origin, ceremonial-grade matcha sourced directly from regions in Japan with deep roots in matcha production, including Nishio in Aichi Prefecture.
 
-We focus on single-origin matcha because we want every batch to reflect the character of the place it came from, not a blend designed to taste the same every time. Blended matcha isn't a bad product. But we believe in offering tea where you can actually trace where it's from and how it's made.
+We're focusing on single-origin matcha because we want every batch to reflect the character of the place it came from, not a blend designed to taste the same every time. Blended matcha isn't a bad product. But we believe in offering tea where you can actually trace where it's from and how it's made.
 
 ## What's Next for West Matcha
 
-Right now, our focus is simple: introduce Canadians to what real, single-origin matcha actually tastes like. Down the road, we plan to expand into flavored matcha latte mixes, think strawberry, yuzu, and vanilla, but the matcha at the base of every product will never be compromised.
+We haven't launched sales yet. Right now, our focus is sharing what we're learning about single-origin matcha while we get everything ready. Down the road, we plan to expand into flavored matcha latte mixes, think strawberry, yuzu, and vanilla, but the matcha at the base of every product will never be compromised.
 
 ## One Last Thing
 
-West Matcha is still a small, young brand. But one thing won't change: we're committed to bringing you honest, real matcha.
+West Matcha is still a small, young brand that hasn't launched yet. But one thing won't change: we're committed to bringing you honest, real matcha when we do.
 
 Going forward, this blog will cover everything from how to choose good matcha, to the stories behind different growing regions, to simple tips for brewing it well at home. Thanks for being here from the start.
 

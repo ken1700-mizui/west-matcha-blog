@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://west-matcha-blog.westmatcha.workers.dev/sitemap-index.xml

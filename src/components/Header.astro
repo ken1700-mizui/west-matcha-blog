@@ -11,6 +11,7 @@ import HeaderLink from './HeaderLink.astro';
 <HeaderLink href="/blog">Blog</HeaderLink>
 <HeaderLink href="/about">About</HeaderLink>
 </div>
+<div class="spacer"></div>
 </nav>
 </header>
 <style>
@@ -30,10 +31,18 @@ h2 a.active {
 text-decoration: none;
 }
 nav {
-display: flex;
+display: grid;
+grid-template-columns: 1fr auto 1fr;
 align-items: center;
-justify-content: center;
-gap: 3em;
+}
+h2 {
+grid-column: 1;
+justify-self: start;
+}
+.internal-links {
+grid-column: 2;
+justify-self: center;
+display: flex;
 }
 nav a {
 padding: 1em 0.5em;
